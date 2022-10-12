@@ -16,4 +16,5 @@ do
     fi
 done
 
-rm -rfv ${CUR_PROJECT_PATH}/bash_template
+# 脚本执行完成后删除脚本文件
+#rm -rfv ${CUR_PROJECT_PATH}/bash_template
